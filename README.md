@@ -1,1 +1,1 @@
-# first-python-code
+Ini adalah Code Python Pertama Saya

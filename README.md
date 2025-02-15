@@ -1,1 +1,2 @@
-Ini ==adalah Code Python Pertama Saya
+Ini adalah Code Python Pertama Saya
+
